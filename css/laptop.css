@@ -1,0 +1,281 @@
+@media (min-width: 769px) and (max-width: 1000px) {
+    .col-l-1 {
+        width: 8.33%;
+        float: left;
+    }
+    .col-l-2 {
+        width: 16.66%;
+        float: left;
+    }
+    .col-l-3 {
+        width: 25%;
+        float: left;
+    }
+    
+    
+    .col-l-4 {
+        width: 33.33%;
+        float: left;
+    }
+    .col-l-5 {
+        width: 41.66%;
+        float: left;
+    }
+    .col-l-6 {
+        width: 50%;
+        float: left;
+    }
+    .col-l-7 {
+        width: 58.33%;
+        float: left;
+    }
+    
+    .col-l-8 {
+        width: 66.66%;
+        float: left;
+    }
+    .col-l-9 {
+        width: 75%;
+        float: left;
+    }
+    .col-l-10 {
+        width: 83.33%;
+        float: left;
+    }
+    .col-l-11 {
+        width: 91.66%;
+        float: left;
+    }
+    .col-l-12 {
+        width: 100%;
+        float: left;
+    }
+    header{
+        text-align: center;
+        
+    }
+    .logo-part {
+    text-align: center;
+    }
+    .menu-part li a {
+        margin: 0px 5px;
+        text-align: center;
+            }
+    .menu-part ul {
+        padding: 10px 0px;
+        text-align: center;
+    }
+    .hero-part {
+        padding: 70px 70px;
+    }
+    .hero-part h1 {
+    font-size: 35px;
+    line-height: 35px;
+    }
+     /* service part  */
+     .service-writing-part h2 {
+        font-size: 35px;
+        font-weight: 600;
+        } 
+        .service-writing-part p {
+            font-size: 18px;
+            font-weight: 400;
+            } 
+        .service-box {
+            padding: 15px 30px;
+          }
+          
+          .service-box img {
+            height: 120px;
+          }
+          .service-box h2 {
+            font-size: 25px;
+          }
+                                  /* team part  */
+                                  .team-writting h3 {
+                                    font-size: 35px;
+                                   }
+                                   .team-writting p {
+                                    font-size: 18px;
+                                   }
+                          .team-box {
+                            padding: 15px 30px;
+                          }
+                          .team-box img {
+                            height: 155px;
+                          }
+                          .team-box h3 {
+                        
+                           font-size: 25px;
+                        }
+                          .team-box p {
+                        
+                        font-size: 18px;
+                        }
+                        /* skill part  */
+.skills-box-part { 
+  
+    margin-top: 50px;
+    text-align: center;
+    padding: 0px 0px 0px 100px;
+  }
+.skills-writting-part h3 {
+    font-size: 35px;
+}
+.skills-writting-part p {
+    font-size: 18px;
+}
+#number {
+    font-size: 30px;
+}
+
+  .skills-box h3 {
+    font-size: 20px;
+    
+  }
+   /* portfolio box part  */
+     
+   .port-bnt-box a {
+        
+font-size: 19px;
+        
+padding: 5px 20px;
+        
+}
+        .portfolio-witting-part h2 {
+            font-size: 35px;
+        }
+        .portfolio-witting-part p {
+            font-size: 18px;
+            padding: 0px 10px;
+        }
+          .portfolio-part { 
+             
+            }
+          
+          .portfolio-box-part img {
+            width: 400px;
+          }
+          .portfolio-box-part h4 {
+             
+font-size: 20px;
+          }
+          .more-bnt a {
+            
+            padding: 20px 60px;
+            
+            font-size: 20px;
+            
+          }
+          .more-bnt a {
+            
+padding: 20px 65px;
+            
+font-size: 20px;
+        }
+        /* about us part  */
+        .about-witting-part h2 {
+            font-size: 35px;
+          }
+          .about-witting-part p {
+            font-size: 20px;
+          }
+          
+          .about-box-part { 
+           
+            margin-top: 120px; 
+           
+          }
+          .about-box-part p {
+           
+margin-left: 40px;
+           
+padding-top: 140px;
+           
+font-size: 20px;
+           
+line-height: 20px;
+           
+font-weight: 400;
+          }
+          .about-box-part h2 {
+        
+        margin-left: 40px;
+        
+        }
+          .about-box-part h3 {
+            
+        margin-left: 40px;
+          }
+          #about-circle {
+            padding: 10px 80px 0px;
+            margin-left: 50px;
+            width: 278px;
+          }
+           /* contact part  */
+  .massage-witting-part h6 {
+
+font-size: 35px;
+
+}
+            .massage-witting-part p {
+              
+font-size: 20px;
+            }
+            .placeholder1 {
+              width: 100%; 
+              float: left; 
+              text-align: left; 
+              margin-top: 50px;
+              }
+            .form1-part {
+            width: 50%;
+            float: left;
+            text-align: right;
+            
+            }
+            .form1-part input[type="text"] {
+              width: 68%;
+              padding: 10px;
+              font-size: 20px;
+              margin-right: 10px;
+            }
+            
+            .form2-part {
+              text-align: left;
+              width: 50%;
+              float: left;
+            }
+            .placeholder2 {
+              
+              }
+            .form2-part input[type="email"] {
+              width: 68%;
+              padding: 10px;
+              font-size: 20px;
+              margin-left: 10px;
+            }
+            
+            .placeholder2 textarea {
+              width: 70%;
+              padding: 10px;
+              font-size: 20px;
+            }
+            
+          .placeholder2 input[type="submit"] {
+              
+padding: 15px 70px;
+              
+border-radius: 5px;
+              
+margin-top: 50px;
+              
+font-size: 20px;
+            }
+            footer li a {
+              
+font-size: 20px;
+              
+font-weight: 700;
+              }
+}
